@@ -1,0 +1,3 @@
+# Go project: no Python dependencies required.
+# This file is intentionally empty to satisfy repository structure expectations
+# for cross-platform tooling that may be invoked from Python-based test harnesses.
